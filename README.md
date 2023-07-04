@@ -7,3 +7,5 @@ This is Accenture Data Analytics virtual experience project with Forage. The goa
 2- Implimentation of an IPO
 
 3- Analysis of top 5 pupular categories content
+
+Presentation Link - https://drive.google.com/drive/folders/12i0GlfHMmA0n8VZFNncReQ1voA1Hup5a?usp=sharing
